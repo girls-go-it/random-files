@@ -1,0 +1,7 @@
+# acesta este un fisier python, incearca sa il dai la executie
+
+for x in range(10):
+    if x % 2 == 0:
+        continue
+    print 'esti extraordinara. Meriti ' + str(x) + ' flori'
+print "multumesc :*"
